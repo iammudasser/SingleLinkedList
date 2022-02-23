@@ -1,1 +1,1 @@
-# SingleLinkedList
+# SinglyLinkedList
